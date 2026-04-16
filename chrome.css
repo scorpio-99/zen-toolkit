@@ -437,6 +437,6 @@ body:has(#theme-Zen-Toolkit[mod-zen-toolkit-remove-tab-x="pinned"]) .zen-workspa
    ============================================ */
 @media (-moz-bool-pref: "mod.zen-toolkit.dialog-style") {
   .dialogOverlay {
-    padding-top: calc(var(--mod-zen-toolkit-dialog-margin, 20) * 1px) !important;
+    padding-top: calc(var(--mod-zen-toolkit-dialog-top-spacing, 20) * 1px) !important;
   }
 }

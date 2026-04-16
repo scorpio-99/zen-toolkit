@@ -402,8 +402,8 @@
     "defaultValue": true
   },
   {
-    "property": "mod.zen-toolkit.dialog-margin",
-    "label": "Outer margin (px)",
+    "property": "mod.zen-toolkit.dialog-top-spacing",
+    "label": "Top spacing (px)",
     "type": "string",
     "defaultValue": "20",
     "placeholder": "20"
