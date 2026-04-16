@@ -1,0 +1,13 @@
+{
+  "id": "d4e5f6a7-b8c9-4d0e-a1f2-3b4c5d6e7f80",
+  "name": "Clean UI",
+  "description": "Spacious bookmarks bar, gear menu icon, decluttered context menus, no double separators.",
+  "homepage": "https://github.com/Scorpio-99/zen-clean-ui",
+  "style": "https://raw.githubusercontent.com/Scorpio-99/zen-clean-ui/main/chrome.css",
+  "readme": "https://raw.githubusercontent.com/Scorpio-99/zen-clean-ui/main/readme.md",
+  "author": "Scorpio-99",
+  "version": "1.0.0",
+  "tags": ["clean", "minimal", "context-menu", "bookmarks"],
+  "createdAt": "2026-04-16",
+  "updatedAt": "2026-04-16"
+}
