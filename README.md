@@ -64,7 +64,7 @@ git clone https://github.com/Scorpio-99/zen-toolkit.git
   "description": "All-in-one Zen mod: spacing, context menus, find bar, ghost tabs, sleek border, dialogs, and more.",
   "homepage": "https://github.com/Scorpio-99/zen-toolkit",
   "author": "Scorpio-99",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "tags": ["clean", "minimal", "context-menu", "bookmarks", "find-bar", "tabs", "border"],
   "createdAt": "2026-04-16",
   "updatedAt": "2026-04-16",
