@@ -66,6 +66,7 @@ git clone https://github.com/Scorpio-99/zen-toolkit.git
   "tags": ["clean", "minimal", "context-menu", "bookmarks", "find-bar", "tabs", "border"],
   "createdAt": "2026-04-16",
   "updatedAt": "2026-04-16",
+  "preferences": "https://raw.githubusercontent.com/Scorpio-99/zen-toolkit/main/preferences.json",
   "enabled": false
 }
 ```
