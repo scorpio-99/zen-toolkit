@@ -5,7 +5,9 @@
     "type": "dropdown",
     "placeholder": " ",
     "defaultValue": "",
-    "options": []
+    "options": [
+      { "label": " ", "value": " " }
+    ]
   },
   {
     "property": "mod.zen-toolkit.spacious-bookmarks",
@@ -80,7 +82,9 @@
     "type": "dropdown",
     "placeholder": " ",
     "defaultValue": "",
-    "options": []
+    "options": [
+      { "label": " ", "value": " " }
+    ]
   },
   {
     "property": "mod.zen-toolkit.menu-icon",
@@ -120,7 +124,9 @@
     "type": "dropdown",
     "placeholder": " ",
     "defaultValue": "",
-    "options": []
+    "options": [
+      { "label": " ", "value": " " }
+    ]
   },
   {
     "property": "mod.zen-toolkit.hide-accessibility",
@@ -188,7 +194,9 @@
     "type": "dropdown",
     "placeholder": " ",
     "defaultValue": "",
-    "options": []
+    "options": [
+      { "label": " ", "value": " " }
+    ]
   },
   {
     "property": "mod.zen-toolkit.findbar-enable",
@@ -327,7 +335,9 @@
     "type": "dropdown",
     "placeholder": " ",
     "defaultValue": "",
-    "options": []
+    "options": [
+      { "label": " ", "value": " " }
+    ]
   },
   {
     "property": "mod.zen-toolkit.ghost-tabs",
@@ -372,7 +382,9 @@
     "type": "dropdown",
     "placeholder": " ",
     "defaultValue": "",
-    "options": []
+    "options": [
+      { "label": " ", "value": " " }
+    ]
   },
   {
     "property": "mod.zen-toolkit.sleek-border",
@@ -393,7 +405,9 @@
     "type": "dropdown",
     "placeholder": " ",
     "defaultValue": "",
-    "options": []
+    "options": [
+      { "label": " ", "value": " " }
+    ]
   },
   {
     "property": "mod.zen-toolkit.dialog-style",
