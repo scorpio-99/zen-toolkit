@@ -436,7 +436,7 @@ body:has(#theme-Zen-Toolkit[mod-zen-toolkit-remove-tab-x="pinned"]) .zen-workspa
    DIALOGS — CUSTOM STYLE
    ============================================ */
 @media (-moz-bool-pref: "mod.zen-toolkit.dialog-style") {
-  .dialogBox {
-    margin: calc(var(--mod-zen-toolkit-dialog-margin, 20) * 1px) !important;
+  .dialogOverlay {
+    padding-top: calc(var(--mod-zen-toolkit-dialog-margin, 20) * 1px) !important;
   }
 }

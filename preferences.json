@@ -399,7 +399,7 @@
     "property": "mod.zen-toolkit.dialog-style",
     "label": "Custom dialog style",
     "type": "checkbox",
-    "defaultValue": false
+    "defaultValue": true
   },
   {
     "property": "mod.zen-toolkit.dialog-margin",
