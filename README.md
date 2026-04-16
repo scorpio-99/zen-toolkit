@@ -2,6 +2,8 @@
 
 An all-in-one Zen Browser mod that declutters the interface and gives you full control over spacing, menus, tabs, find bar, borders, dialogs, and more — with 40+ configurable settings.
 
+> **Note:** This mod is not available in the official Zen Mods Store. It must be installed manually (see instructions below).
+
 ## Features
 
 ### Spacing
